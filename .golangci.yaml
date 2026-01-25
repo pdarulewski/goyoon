@@ -1,0 +1,16 @@
+version: "2"
+linters:
+  default: all
+  disable:
+    - depguard
+    - noinlineerr
+    - wsl
+formatters:
+  enable:
+    - gofumpt
+    - goimports
+    - golines
+  settings:
+    goimports:
+      local-prefixes:
+        - github.com/pdarulewski/goyoon

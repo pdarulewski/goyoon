@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "new game",
+      "type": "go",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "output": "${workspaceFolder}/__debug",
+      "program": "${workspaceFolder}/cmd/main.go"
+    }
+  ]
+}

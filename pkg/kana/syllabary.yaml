@@ -1,0 +1,520 @@
+"a":
+  hiragana: あ
+  katakana: ア
+  romaji: "a"
+  type: basic
+"i":
+  hiragana: い
+  katakana: イ
+  romaji: "i"
+  type: basic
+"u":
+  hiragana: う
+  katakana: ウ
+  romaji: "u"
+  type: basic
+"e":
+  hiragana: え
+  katakana: エ
+  romaji: "e"
+  type: basic
+"o":
+  hiragana: お
+  katakana: オ
+  romaji: "o"
+  type: basic
+"ka":
+  hiragana: か
+  katakana: カ
+  romaji: "ka"
+  type: basic
+"ki":
+  hiragana: き
+  katakana: キ
+  romaji: "ki"
+  type: basic
+"ku":
+  hiragana: く
+  katakana: ク
+  romaji: "ku"
+  type: basic
+"ke":
+  hiragana: け
+  katakana: ケ
+  romaji: "ke"
+  type: basic
+"ko":
+  hiragana: こ
+  katakana: コ
+  romaji: "ko"
+  type: basic
+"sa":
+  hiragana: さ
+  katakana: サ
+  romaji: "sa"
+  type: basic
+"shi":
+  hiragana: し
+  katakana: シ
+  romaji: "shi"
+  type: basic
+"su":
+  hiragana: す
+  katakana: ス
+  romaji: "su"
+  type: basic
+"se":
+  hiragana: せ
+  katakana: セ
+  romaji: "se"
+  type: basic
+"so":
+  hiragana: そ
+  katakana: ソ
+  romaji: "so"
+  type: basic
+"ta":
+  hiragana: た
+  katakana: タ
+  romaji: "ta"
+  type: basic
+"chi":
+  hiragana: ち
+  katakana: チ
+  romaji: "chi"
+  type: basic
+"tsu":
+  hiragana: つ
+  katakana: ツ
+  romaji: "tsu"
+  type: basic
+"te":
+  hiragana: て
+  katakana: テ
+  romaji: "te"
+  type: basic
+"to":
+  hiragana: と
+  katakana: ト
+  romaji: "to"
+  type: basic
+"na":
+  hiragana: な
+  katakana: ナ
+  romaji: "na"
+  type: basic
+"ni":
+  hiragana: に
+  katakana: ニ
+  romaji: "ni"
+  type: basic
+"nu":
+  hiragana: ぬ
+  katakana: ヌ
+  romaji: "nu"
+  type: basic
+"ne":
+  hiragana: ね
+  katakana: ネ
+  romaji: "ne"
+  type: basic
+"no":
+  hiragana: の
+  katakana: ノ
+  romaji: "no"
+  type: basic
+"ha":
+  hiragana: は
+  katakana: ハ
+  romaji: "ha"
+  type: basic
+"hi":
+  hiragana: ひ
+  katakana: ヒ
+  romaji: "hi"
+  type: basic
+"fu":
+  hiragana: ふ
+  katakana: フ
+  romaji: "fu"
+  type: basic
+"he":
+  hiragana: へ
+  katakana: ヘ
+  romaji: "he"
+  type: basic
+"ho":
+  hiragana: ほ
+  katakana: ホ
+  romaji: "ho"
+  type: basic
+"ma":
+  hiragana: ま
+  katakana: マ
+  romaji: "ma"
+  type: basic
+"mi":
+  hiragana: み
+  katakana: ミ
+  romaji: "mi"
+  type: basic
+"mu":
+  hiragana: む
+  katakana: ム
+  romaji: "mu"
+  type: basic
+"me":
+  hiragana: め
+  katakana: メ
+  romaji: "me"
+  type: basic
+"mo":
+  hiragana: も
+  katakana: モ
+  romaji: "mo"
+  type: basic
+"ya":
+  hiragana: や
+  katakana: ヤ
+  romaji: "ya"
+  type: basic
+"yu":
+  hiragana: ゆ
+  katakana: ユ
+  romaji: "yu"
+  type: basic
+"yo":
+  hiragana: よ
+  katakana: ヨ
+  romaji: "yo"
+  type: basic
+"ra":
+  hiragana: ら
+  katakana: ラ
+  romaji: "ra"
+  type: basic
+"ri":
+  hiragana: り
+  katakana: リ
+  romaji: "ri"
+  type: basic
+"ru":
+  hiragana: る
+  katakana: ル
+  romaji: "ru"
+  type: basic
+"re":
+  hiragana: れ
+  katakana: レ
+  romaji: "re"
+  type: basic
+"ro":
+  hiragana: ろ
+  katakana: ロ
+  romaji: "ro"
+  type: basic
+"wa":
+  hiragana: わ
+  katakana: ワ
+  romaji: "wa"
+  type: basic
+"wo":
+  hiragana: を
+  katakana: ヲ
+  romaji: "wo"
+  type: basic
+"n":
+  hiragana: ん
+  katakana: ン
+  romaji: "n"
+  type: basic
+"ga":
+  hiragana: が
+  katakana: ガ
+  romaji: "ga"
+  type: dakuten
+"gi":
+  hiragana: ぎ
+  katakana: ギ
+  romaji: "gi"
+  type: dakuten
+"gu":
+  hiragana: ぐ
+  katakana: グ
+  romaji: "gu"
+  type: dakuten
+"ge":
+  hiragana: げ
+  katakana: ゲ
+  romaji: "ge"
+  type: dakuten
+"go":
+  hiragana: ご
+  katakana: ゴ
+  romaji: "go"
+  type: dakuten
+"za":
+  hiragana: ざ
+  katakana: ザ
+  romaji: "za"
+  type: dakuten
+"ji":
+  hiragana: じ
+  katakana: ジ
+  romaji: "ji"
+  type: dakuten
+"zu":
+  hiragana: ず
+  katakana: ズ
+  romaji: "zu"
+  type: dakuten
+"ze":
+  hiragana: ぜ
+  katakana: ゼ
+  romaji: "ze"
+  type: dakuten
+"zo":
+  hiragana: ぞ
+  katakana: ゾ
+  romaji: "zo"
+  type: dakuten
+"da":
+  hiragana: だ
+  katakana: ダ
+  romaji: "da"
+  type: dakuten
+"di":
+  hiragana: ぢ
+  katakana: ヂ
+  romaji: "ji"
+  type: dakuten
+"du":
+  hiragana: づ
+  katakana: ヅ
+  romaji: "zu"
+  type: dakuten
+"de":
+  hiragana: で
+  katakana: デ
+  romaji: "de"
+  type: dakuten
+"do":
+  hiragana: ど
+  katakana: ド
+  romaji: "do"
+  type: dakuten
+"ba":
+  hiragana: ば
+  katakana: バ
+  romaji: "ba"
+  type: dakuten
+"bi":
+  hiragana: び
+  katakana: ビ
+  romaji: "bi"
+  type: dakuten
+"bu":
+  hiragana: ぶ
+  katakana: ブ
+  romaji: "bu"
+  type: dakuten
+"be":
+  hiragana: べ
+  katakana: ベ
+  romaji: "be"
+  type: dakuten
+"bo":
+  hiragana: ぼ
+  katakana: ボ
+  romaji: "bo"
+  type: dakuten
+"pa":
+  hiragana: ぱ
+  katakana: パ
+  romaji: "pa"
+  type: handakuten
+"pi":
+  hiragana: ぴ
+  katakana: ピ
+  romaji: "pi"
+  type: handakuten
+"pu":
+  hiragana: ぷ
+  katakana: プ
+  romaji: "pu"
+  type: handakuten
+"pe":
+  hiragana: ぺ
+  katakana: ペ
+  romaji: "pe"
+  type: handakuten
+"po":
+  hiragana: ぽ
+  katakana: ポ
+  romaji: "po"
+  type: handakuten
+"kya":
+  hiragana: きゃ
+  katakana: キャ
+  romaji: "kya"
+  type: yoon
+"kyu":
+  hiragana: きゅ
+  katakana: キュ
+  romaji: "kyu"
+  type: yoon
+"kyo":
+  hiragana: きょ
+  katakana: キョ
+  romaji: "kyo"
+  type: yoon
+"sha":
+  hiragana: しゃ
+  katakana: シャ
+  romaji: "sha"
+  type: yoon
+"shu":
+  hiragana: しゅ
+  katakana: シュ
+  romaji: "shu"
+  type: yoon
+"sho":
+  hiragana: しょ
+  katakana: ショ
+  romaji: "sho"
+  type: yoon
+"cha":
+  hiragana: ちゃ
+  katakana: チャ
+  romaji: "cha"
+  type: yoon
+"chu":
+  hiragana: ちゅ
+  katakana: チュ
+  romaji: "chu"
+  type: yoon
+"cho":
+  hiragana: ちょ
+  katakana: チョ
+  romaji: "cho"
+  type: yoon
+"nya":
+  hiragana: にゃ
+  katakana: ニャ
+  romaji: "nya"
+  type: yoon
+"nyu":
+  hiragana: にゅ
+  katakana: ニュ
+  romaji: "nyu"
+  type: yoon
+"nyo":
+  hiragana: にょ
+  katakana: ニョ
+  romaji: "nyo"
+  type: yoon
+"hya":
+  hiragana: ひゃ
+  katakana: ヒャ
+  romaji: "hya"
+  type: yoon
+"hyu":
+  hiragana: ひゅ
+  katakana: ヒュ
+  romaji: "hyu"
+  type: yoon
+"hyo":
+  hiragana: ひょ
+  katakana: ヒョ
+  romaji: "hyo"
+  type: yoon
+"mya":
+  hiragana: みゃ
+  katakana: ミャ
+  romaji: "mya"
+  type: yoon
+"my":
+  hiragana: みゅ
+  katakana: ミュ
+  romaji: "my"
+  type: yoon
+"myo":
+  hiragana: みょ
+  katakana: ミョ
+  romaji: "myo"
+  type: yoon
+"rya":
+  hiragana: りゃ
+  katakana: リャ
+  romaji: "rya"
+  type: yoon
+"ryu":
+  hiragana: りゅ
+  katakana: リュ
+  romaji: "ryu"
+  type: yoon
+"ryo":
+  hiragana: りょ
+  katakana: リョ
+  romaji: "ryo"
+  type: yoon
+"gya":
+  hiragana: ぎゃ
+  katakana: ギャ
+  romaji: "gya"
+  type: yoon
+"gyu":
+  hiragana: ぎゅ
+  katakana: ギュ
+  romaji: "gyu"
+  type: yoon
+"gyo":
+  hiragana: ぎょ
+  katakana: ギョ
+  romaji: "gyo"
+  type: yoon
+"ja":
+  hiragana: じゃ
+  katakana: ジャ
+  romaji: "ja"
+  type: yoon
+"ju":
+  hiragana: じゅ
+  katakana: ジュ
+  romaji: "ju"
+  type: yoon
+"jo":
+  hiragana: じょ
+  katakana: ジョ
+  romaji: "jo"
+  type: yoon
+"bya":
+  hiragana: びゃ
+  katakana: ビャ
+  romaji: "bya"
+  type: yoon
+"byu":
+  hiragana: びゅ
+  katakana: ビュ
+  romaji: "byu"
+  type: yoon
+"byo":
+  hiragana: びょ
+  katakana: ビョ
+  romaji: "byo"
+  type: yoon
+"pya":
+  hiragana: ぴゃ
+  katakana: ピャ
+  romaji: "pya"
+  type: yoon
+"pyu":
+  hiragana: ぴゅ
+  katakana: ピュ
+  romaji: "pyu"
+  type: yoon
+"pyo":
+  hiragana: ぴょ
+  katakana: ピョ
+  romaji: "pyo"
+  type: yoon
